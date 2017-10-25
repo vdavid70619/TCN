@@ -18,8 +18,8 @@ We provide the pre-trained proposal for both ActivityNet and THUMOS to assist fu
 
 Dataset|Link    
 --- | ---  
-ActivityNet | [Download](https://obj.umiacs.umd.edu/tcn_pretrained/thumos_tsn_score.tar)  
-THUMOS | [Download]()
+ActivityNet | [Download](https://obj.umiacs.umd.edu/tcn_pretrained/actnet_proposal.7z)  
+THUMOS | [Download](https://obj.umiacs.umd.edu/tcn_pretrained/thumos_proposal.7z)
 
 #### Run the code 
 
@@ -35,8 +35,8 @@ We fine-tune [TSN](https://github.com/yjxiong/temporal-segment-networks) on data
 
 Dataset|Link    
 --- | ---  
-ActivityNet | [Download1]() [Download2]() [Download3]()  
-THUMOS | [Download](https://obj.umiacs.umd.edu/tcn_pretrained/thumos_tsn_score.tar)
+ActivityNet | [Download1](https://obj.umiacs.umd.edu/tcn_pretrained/actnet_tsn_score.7z.001) [Download2](https://obj.umiacs.umd.edu/tcn_pretrained/actnet_tsn_score.7z.002) [Download3](https://obj.umiacs.umd.edu/tcn_pretrained/actnet_tsn_score.7z.003)  
+THUMOS | [Download](https://obj.umiacs.umd.edu/tcn_pretrained/thumos_tsn_score.7z)
 
 For global features such as mbh and imagenet_shuffle, you can download from the official website.
 
@@ -45,5 +45,5 @@ Here are the pre-trained models:
 
 Dataset|Link    
 --- | ---  
-ActivityNet | [Download]()  
-THUMOS | [Download]()
+ActivityNet | [Download](https://obj.umiacs.umd.edu/tcn_pretrained/actnet_model.7z)  
+THUMOS | [Download](https://obj.umiacs.umd.edu/tcn_pretrained/thumos_model.7z)
